@@ -7,7 +7,8 @@ export default function About() {
   ];
 
   return (
-    <section className="relative py-28 px-6 overflow-hidden">
+    <section id="about"
+     className="relative py-28 px-6 overflow-hidden">
 
       {/* Background Glow */}
       <div className="absolute top-10 left-10 w-72 h-72 bg-purple-600/20 blur-[120px] rounded-full"></div>

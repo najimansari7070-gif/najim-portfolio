@@ -30,7 +30,8 @@ export default function Skills() {
   ];
 
   return (
-    <section className="relative py-28 px-6 overflow-hidden">
+    <section id="skills"
+    className="relative py-28 px-6 overflow-hidden">
 
       {/* Background Glow */}
       <div className="absolute top-20 left-20 w-72 h-72 bg-purple-600/20 blur-[120px] rounded-full"></div>

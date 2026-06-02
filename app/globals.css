@@ -16,16 +16,17 @@ body {
 
   background: linear-gradient(
     -45deg,
-    #000000,
-    #090014,
-    #140021,
-    #1a0033,
-    #000000
+    #020204,
+    #070011,
+    #12001f,
+    #1d0938,
+    #020204
   );
 
   background-size: 400% 400%;
-  animation: bgAnimation 18s ease infinite;
+  animation: bgAnimation 25s ease infinite;
 }
+
 
 /* Animated Purple Glow */
 body::before {

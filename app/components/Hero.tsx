@@ -7,8 +7,8 @@ import { TypeAnimation } from "react-type-animation";
 export default function Hero() {
   return (
     <section
-      id="hero"
-      className="relative min-h-screen flex flex-col justify-center items-center overflow-hidden pt-29 md:pt-20 pb-20 px-6"
+      id="home"
+      className="relative min-h-screen flex flex-col justify-center items-center overflow-hidden pt-40 md:pt-32 pb-20 px-6"
     >
       {/* Background Glow */}
       <div className="absolute top-20 left-20 w-80 h-80 bg-purple-600/10 blur-[90px] rounded-full"></div>
